@@ -1,5 +1,5 @@
-x = input("")
+sentence = input("Write sentence: ")
 
-x = x.replace(" ", "...")
+sentence = sentence.replace(" ", "...")
 
-print(x)
+print(sentence)
